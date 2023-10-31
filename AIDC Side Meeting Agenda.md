@@ -5,6 +5,7 @@ A side meeting at IETF 118
 
 **Time:** 17:00 - 19:00 Tuesday, November 7, 2023 
 *(Central European Time - Prague)*
+
 **Location:** Palmovka 1/2
 
 Chairs:
