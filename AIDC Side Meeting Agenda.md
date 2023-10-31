@@ -8,10 +8,13 @@ A side meeting at IETF 118
 **Location:** Palmovka 1/2
 
 Chairs:
+
 Jeff Tantsura (jefftant.ietf@gmail.com)
 Yingzhen Qu (yingzhen.ietf@gmail.com)
 
-Join the meeting click on the link: 
+
+Join the meeting click on the link:
+
 **https://ietf.webex.com/meet/ietfsidemeeting2**
 
 * 17:00
@@ -19,19 +22,23 @@ Opening
 
 * 17:10
 **Networking in AI**
-Omer Shabtai (Nvidia)
+  
+  Omer Shabtai (Nvidia)
 
 * 17:35
 **Astral-Network: efficient large-scale datacenter network for large language model training**
-Baojia Li (Tencent)
+
+  Baojia Li (Tencent)
 
 * 17:55
 **Self-Adjusting Networks**
-Stefan Schmid (TU Berlin)
+  
+  Stefan Schmid (TU Berlin)
 
 * 18:15
 **CSIG - Simple and Effective In-band Network Signals for Efficient Traffic Management in Datacenter Networks**
-Abhiram Ravi (Google)
+  
+  Abhiram Ravi (Google)
 
 * 18:45 
 Open Discussions 
