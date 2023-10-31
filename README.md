@@ -8,3 +8,5 @@ Our objectives for this meeting include:
 	•	Exploring innovative research and standardization opportunities
 
 We look forward to engaging in these discussions and collectively advancing our understanding of the evolving landscape of data center networking for AI. Your active participation will be highly valuable as we work towards addressing these challenges and fostering innovation in this domain.
+
+Agenda: https://github.com/Yingzhen-ietf/AIDC-IETF118/blob/main/AIDC%20Side%20Meeting%20Agenda.md
