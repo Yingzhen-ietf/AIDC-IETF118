@@ -18,6 +18,9 @@ Join the meeting click on the link:
 
 **https://ietf.webex.com/meet/ietfsidemeeting2**
 
+Recording:
+**https://ietf.webex.com/ietf/ldr.php?RCID=ec26a531c728d18fd5ad7880dd2c2ed1**
+
 * 17:00
 Opening
 
